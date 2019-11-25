@@ -1,16 +1,13 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-
-## Titulo de la Sesion 
+## Sesión 01: Introducción a Machine Learning 
 
 ### OBJETIVOS 
 
-- Lo que esperamos que el alumno aprenda al finalizar la sesion 
+- En esta sesión teoórica veremos todas las bases necesarias para entender que es Machione Learning, como funciona, y de que manera se aplica Machine Learning en la industria. Al finalizar esta sesión deberás definir un proyecto que desees abordar con Machine Learning.
 
-#### ORGANIZACION DE LA CLASE 
+#### ORGANIZACION DE LA CLASE:
 
-- Tema que veran en el ejemplo
-
-	- [Ejemplo 01](Ejemplo-01)
-	- [Reto 01](Reto-01)
-
+- ¿Que es machine learning?
+- ¿Como es que una computadora puede aprender?
+- Aplicaciones de Machine Learning
+- Descriptores para Machine Learning
+- ¿Porque programar ML con Python?
