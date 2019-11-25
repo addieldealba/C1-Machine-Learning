@@ -1,5 +1,5 @@
  
-## Módulo: Nombre del modulo
+## Módulo: C1 - Machine Learning
 
 ### OBJETIVO 
  - Agrega lo que van a aprender en el modulo
