@@ -1,27 +1,15 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 02
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Cruza de la población. 
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. Código del ejemplo 01 
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+Una vez generada una población, el siguiente paso es la cruza: dos individuos de la población se mezclan para compartir sus genes y que los hijos generados por la cruza tengan las fortalezas (o características) de sus padres. Como en toda población, no todos los hijos tienen las características necesarias para sobrevivir, pero eso lo veremos en ejemplos posteriores. 

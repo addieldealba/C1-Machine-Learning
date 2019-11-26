@@ -1,27 +1,22 @@
- 
+## Reto 03
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Inicializa una población, crúzala, mútala, y genera una función de adaptablidad y supervivencia. 
+- Repite el proceso durante N generaciones en un ciclo. Con ello ensamblarás un algoritmo genético. 
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. Código del reto 01 y 02
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+1) Genera una población aleatoria, realiza las operaciones de cruza, y muestra a los nuevos individos junto con los padres en una sola población. 
 
-<details>
+2) Una vez que hayas hecho el proceso de cruza, selecciona individuos aleatoriamente y lleva a cabo el proceso de mutación como lo vimos en clase.
 
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
+3) Crea una función de adaptabilidad que diga que tan buenos son los individuos. Ordénalos de mejor a peor con np.sort() y quedate con los X mejores. 
 
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+4) repite el proceso para N generaciones, con ello habrás ensamblado un algoritmo genético completo. 

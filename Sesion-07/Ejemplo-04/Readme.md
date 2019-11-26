@@ -1,27 +1,16 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 04
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Función de adaptabilidad y supervivencia de los individuos.
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. Código de ejemplos 01, 02 y 03
+4. Código de reto 01 y 02
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+La manera en la que un individuo sobrevive es compitiendo contra otros y siendo mejor que los demás. La función de adaptabilidad nos dice que tan bueno es el individuo en un ranking, los cuales se ordenan de mejor a peor. En la etapa de supervivencia los individuos menos aptos mueren, y por lo general se quedan solamente los individuos mas aptos. Este código ejemplifica una fucnión de adaptabilidad y la supervivencia de los individuos. 

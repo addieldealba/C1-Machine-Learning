@@ -1,27 +1,17 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 03
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Mutación de la población
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. Código del ejemplo 01 
+4. Código del reto 01
+5. Código del ejemplo 02
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+En algunos casos, los individuos tienen un cambio abrupto en sus genes, lo cual genera una "mutación": algunas veces las mutaciones pueden ser perjudiciales para el individuo y no sobreviven. En otros casos las mutaciones pueden ser benéficas y le ayudan a sobrevivir o inclusive a exceder las expectativas de la población. Una mutación puede pasarse por la cruza a los hijos y eventualmente mejorar a la población, pero solamente si la mutación es benéfica y les ayuda a sobrevivir. 

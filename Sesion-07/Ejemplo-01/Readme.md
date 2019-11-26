@@ -1,27 +1,14 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 01
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Inicialización de la población
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+El primer paso para un algoritmo genético es inicializar la población: Una población tiene un genotipo (un arreglo de números de NumPy) y un fenotipo (cuando interpretas esos números como una solución). Una población inicial suele ser un conjunto de valores aleatorios. que representan a diferentes individuos de una población. 

@@ -1,27 +1,17 @@
- 
+## Reto 01
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Inicializa una población y crúzala.
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. Código de ejemplo 01
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+Genera una población aleatoria, realiza las operaciones de cruza, y muestra a los nuevos individos junto con los padres en una sola población. 
 
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Puedes definir la cantidad de genes que quieres que tenga, pero trata de mantener al menos tres genes.
