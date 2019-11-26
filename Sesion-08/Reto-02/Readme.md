@@ -1,27 +1,20 @@
- 
+## Reto 02
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Segmenta una manzana (Separa la manzana del fondo) 
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. OpenCV
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+El reto consiste en hacer una binarización por umbral:
 
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+1) genera un umbral para que queden valores de 0 para el fondo, y 255 para la manzana.
+2) Luego transforma la imagen binarizada a negativo,
+3) Transforma los valores 255 a valores 1. 
+3) Finalmente multiplica con np.multiply la imagen binarizada (con 0s y 1s) contra los canales, de tal manera que solamente te quedes con la manzana.

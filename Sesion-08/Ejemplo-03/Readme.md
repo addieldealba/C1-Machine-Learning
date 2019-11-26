@@ -1,27 +1,14 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 03
 
 ### OBJETIVO
-
-- Lo que esperamos que el alumno aprenda
+- Generar descriptores de color basados en histogramas. 
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. OpenCV
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+Un descriptor es un conjunto de datos que refleja información de una imagen, es un puente para transformar datos no estructurados de una imagen (pixeles) en datos manejables y estructurados. Uno de los descriptores mas utilizados son los histogramas de color. En este ejemplo veremos como se fabrican y como se concatenan para generar un único descriptor: un arreglo de datos que puede ser usado para clasificar imágenes. 

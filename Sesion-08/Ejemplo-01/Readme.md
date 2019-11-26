@@ -1,27 +1,16 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 01
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Demostrar acerca de los espacios de color Rojo, Verde y Azul (RGB)
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. OpenCV
+4. Un archivo de imagen a color.
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+Cargamos una imagen con OpenCV para transformar un archivo de imagen en un volumen de tres canales: Rojo, verde y azul. Mostamos los canales por separado, llenando de color negro los otros dos canales, para demostrar como se ve una imagen con cada uno de los canales. Finalmente, juntamos los tres canales en uno solo para formar una imagen en escala de grises. 
