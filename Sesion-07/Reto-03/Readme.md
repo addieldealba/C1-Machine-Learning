@@ -19,4 +19,4 @@
 
 3) Crea una función de adaptabilidad que diga que tan buenos son los individuos. Ordénalos de mejor a peor con np.sort() y quedate con los X mejores. 
 
-4) repite el proceso para N generaciones, con ello habrás ensamblado un algoritmo genético completo. 
+4) Repite el proceso para N generaciones, con ello habrás ensamblado un algoritmo genético completo. 
