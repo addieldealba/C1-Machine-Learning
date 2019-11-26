@@ -1,27 +1,16 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 05
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Aplicación del entrenamiento de una red neuronal para solucionar problemas.
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. NumPy
+2. Jupyter Notebook
+3. Scikit Learn
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Si bien es cierto que las redes neuronales solamente las hemos implementado hacia adelante y no hemos hecho el algoritmo de aprendizaje, en este ejemplo usaremos un clasificador pre-creado de Scikit learn para mostrar como es que una red neuronal que hemos creado puede aprender y resolver un problema complejo como la separación de dos blobs. Igualmente, es importante que hagamos la prueba de la red neuronal y veamos su desempeño. 
 

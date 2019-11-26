@@ -1,27 +1,19 @@
- 
+## Reto 01
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Implementa una neurona con una función de activación sencilla: $g(z) = z$
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. NumPy
+2. Jupyter Notebook
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+Como lo vimos en clase, crea tres funciones con NumPy:
+1. calcularZ
+2. activacion
+3. Neurona.
 
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+El resultado se encuentra dentro del archivo Reto01. Trata de implementarlo por ti mismo!

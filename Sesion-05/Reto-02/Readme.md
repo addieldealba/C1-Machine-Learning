@@ -1,27 +1,14 @@
- 
+## Reto 02
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Inicializa una capa neuronal con valores aleatorios.
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. NumPy
+2. Jupyter Notebook
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+En este reto deberás crear una capa neuronal con la cantidad de neuronas y la cantidad de entradas que le digas a la función. Toma en cuenta que la cantidad de neuronas y la cantidad de entradas es lo que define el tamaño de la matriz W y el tamaño del arreglo de bias b. Si logras definir esas dos variables con base en la cantidad de entradas y neuronas, habrpas grado una capa neuronal completa.

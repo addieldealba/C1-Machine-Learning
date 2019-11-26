@@ -1,27 +1,15 @@
- 
+## Reto 03
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Haz una red neuronal multiclase: La red neuronal debe ser capaz de clasificar N categorías. 
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. NumPy
+2. Jupyter Notebook
+3. Scikit Learn
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+El ejemplo 05 nos muestra como se hace una clasificación binaria. En este reto deberás crear una red neuronal capaz de clasificar múltiples categorías en blobs, para ello, te recomiendo que una vez entrenado pongas los datos en una matriz de confusión y calcules la accuracy como lo hemos visto en las sesiones pasadas (sesión 02)
