@@ -1,27 +1,19 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Mejora el regresor polinomial. 
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. Pandas
+4. SciKit Learn.
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Toma el ejemplo 02 y trata de mejorarlo: para ello, puedes...
+    1. Tomar en cuenta mas datos en lugar de solamente dos,
+    2. Editar la cantidad de datos de entrenamiento / prueba, etc.
+    3. Editar el grado del polinomio (TIP: Un grado polinomial muy grande no quiere decir mejor).

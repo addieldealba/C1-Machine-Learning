@@ -1,27 +1,16 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 03
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Aplicar las series de tiempo para predecir el clima.
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. Pandas
+4. SciKit Learn.
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+Las series de tiempo consiste en tomar varios datos pasados para tratar de predecir un dato futuro. Si tienes un registro histórico de venta, puedes utilizarlo para predecir el futuro de un asunto tan veleidoso como el clima. Sin embargo, el clima es algo que puede fallar aun con las mejores predicciones, por lo que te recomiendo que midas el desfase entre tus predicciones y el valor real. 
