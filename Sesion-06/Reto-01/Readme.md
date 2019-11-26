@@ -1,27 +1,24 @@
- 
+## Reto 01
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Entrena una neurona para que pueda implementar una compuerta AND
+- Entrena otra neurona para que implemente la compuerta NOT.
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. Funciones de la sesión 05
+4. Funciones del ejemplo 01
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+Para este reto deberás tomar el código de propagación hacia adelante y de propagación hacia atrás del ejemplo 01 y construir una compuerta AND y una compuerta NOT.
 
-<details>
+Toma en cuenta que:
 
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
+1.- Una neurona debe implementar la compuerta AND, y otra completamente diferente debe implementar la compuerta NOT, son dos procesos distintos y no debes mezclarlos. Primero inicializa una y entranala, y luego inicializa otra y entrénala. 
 
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
+2.- La inicialización de las variables es diferente: La compuerta AND tiene 2 entradas y una salida, mientras que la compuerta NOT tiene una entrada y una salida solamente. 
 

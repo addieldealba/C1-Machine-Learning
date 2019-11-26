@@ -1,27 +1,26 @@
- 
+## Reto 01
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+### OBJETIVO
 
-### OBJETIVO 
+- Agranda la cantidad de características de entrada, agrega una capa neuronal, y agranda las primeras dos capas neuronales.
+- Entrena esta red neuronal y obten resultados. 
 
-- Lo que esperamos que el alumno aprenda 
+#### REQUISITOS
 
-#### REQUISITOS 
-
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. Funciones de la sesión 05
+4. Funciones del ejemplo 02
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+En este reto deberás de: 
 
-<details>
+    1) Agrandar la cantidad de características de entrada de 10 a 15.
 
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
+    2) Agregar una capa neuronal (para que sean 3)
 
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
+    3) Agrandar la primera y segunda capa neuronal.
 
+Deberás de entrenar tu red neuronal y obtener resultados con ello. 
+Puedes apoyarte del código del ejemplo 02. Toma en cuenta que en esta ocasión tendrás tres capas neuronales en lugar de dos, así que las salidas de la capa 1 deben ir conectadas a la capa 2, y las salidas de la capa 2 deberán estar conectadas en la capa 3.

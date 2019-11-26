@@ -1,27 +1,24 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 02
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Entrenamiento de una red neuronal para separar dos clases. 
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. Funciones de la sesión 05
+4. Funciones el ejemplo 02
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+En este ejemplo vamos a entrenar una red neuronal con los siguientes pasos: 
+1. Propagación hacia adelante (front propagation)
+2. Cálculo del error (error logístico)
+3. Retropropagación (back propagation)
+4. Juntamos los pasos anteriores para hacer el algoritmo de entrenamiento.
 
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
+Finalmente, probamos la red neuronal entrenada para clasificar el dataset de prueba. 
 
 
