@@ -1,27 +1,17 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 01
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Enrenar el algoritmo de K-means y obtener los centroides.
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook
+2. NumPy
+3. MatPlotLib
+4. SciKit Learn
 
 #### DESARROLLO
-
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+Genera 4 conjuntos con 2 características y 1000 datos usando la función makeblobs.
+Una vez generados, despliegalos en una gráfica de scatterplot, y entrena un algoritmo de k-medias para calcular los centroides que representan a cada uno de esos 4 conjuntos.
+Finalmente, imprime los conjuntos.
