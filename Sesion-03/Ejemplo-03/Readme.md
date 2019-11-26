@@ -1,27 +1,20 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 03
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- En este ejemplo veremos como se pueden utilizar algoritmos de K-medias para generar un sistema de recomendaciones basado en una película que hayas visto anteriormente.
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Jupyter Notebook, Numpy y SKlearn.
+2. La librería creada por nosotros de MLUtilities.py
+3. Los datos de películas en CSV.
+4. Lo necesario para desarrollar el ejemplo o el Reto
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
+En este ejemplo demuestro como se puede generar un sistema de recomendación muy similar al que tiene Netflix: "Porque viste tal película, te recomendamos estas otras"...
 
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Para ello, muestro como puedes tomar un dataset y transformarlo en datos numéricos con Dataframes y con mappeos. 
+Luego, calculamso los centroides, y con una película obtenemos su centroide mas cercano y lo usamos para obtener todas las películas que pertenecen a ese centroide, haciendo que nos las recomienden.
 

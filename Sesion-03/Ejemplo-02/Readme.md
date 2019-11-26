@@ -1,27 +1,13 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
-
-## Titulo del Ejemplo
+## Ejemplo 02
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Calculo de la moda
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Paquete Scipy
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-        <summary>Solucion</summary>
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details>
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
-
+El obtener la moda de un conjunto de datos requiere algo de reto, por lo que hay una función que calcula la moda para ti en Scipy. Para ello, la añado en este ejemplo. No hay mucho que decir al respecto :)
