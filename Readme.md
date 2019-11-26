@@ -1,5 +1,5 @@
  
-## Módulo: C1 - Machine Learning
+## Módulo: C1 - Machine Learning.
 
 ### OBJETIVO 
  - En este módulo aprenderemos lo necesario para implementar aprendizaje supervisado, no supervisado, optimización por algoritmos bioinspirados, y cerraremos el módulo trabajando con procesamiento de imágenes digitales. El objetivo final será que puedas implementar uno o mas algoritmos de Machine Learning (ML) para obtener información y tomar decisiones con base en ellos. 
