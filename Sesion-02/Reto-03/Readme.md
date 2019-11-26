@@ -1,27 +1,14 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Implementaremos un Leave-One-Out Cross Validation con tus datos de dataset (o en su defecto, con 1000 datos en makeblobs)
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. SciKit Learn 
 
 #### DESARROLLO
-
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Realiza un ciclo con kfold.split de tal manera que puedas mostrar que datos van en entrenamiento y que datos van en prueba. No tiene caso mostrar 999 datos de entrenamiento y 1 de prueba, así que verifica que funcione en todos los casos con variable.shape().

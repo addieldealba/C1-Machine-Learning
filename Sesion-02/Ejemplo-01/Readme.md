@@ -1,27 +1,15 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Ejemplo 01
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- En este ejemplo vamos a separar datos en entrenamiento, validación y prueba. 
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. SciKit Learn
+3. NumPy
 
 #### DESARROLLO
-
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Utiliza la función de train_test_split para segmentar aleatoriamente en entrenamiento y un segmento temporal.
+Repite el uso de esta función para separar el segmento temporal en validación y prueba.

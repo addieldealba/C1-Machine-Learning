@@ -1,27 +1,21 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Reto 04
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Calcular especificidad, sensibilidad y precisión (accuracy)
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. SciKit Learn 
+4. El código del ejemplo 04
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+De un arreglo de valores esperados y predichos (y_esperados / y_predichos) genera:
+    -La matriz de confusión.
+    -Los TP, TN, FP, y FN.
+    -Calcula la especificidad (%)
+    -Calcula la sensibilidad (%)
+    -Calcula la precisión (%)

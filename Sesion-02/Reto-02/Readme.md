@@ -1,27 +1,15 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- En este ejemplo vamos a crear un K-fold, si tienes datos, es el momento de utilizarlos!
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. SciKit Learn 
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Usaremos la función kfold.split para separar los datos en 4 folds. pon tus datos en un ciclo for para ver cuales datos son de entrenamiento y cuales son de prueba. En cada ciclo debe haber un 75% de datos de entrenamiento y un 25% de datos de prueba. 

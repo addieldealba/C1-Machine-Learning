@@ -20,4 +20,4 @@
 
 - Evaluación de algoritmos con métricas
 	- [Ejemplo 04](Ejemplo-04) Métricas de evaluación de algoritmos. 
-	- [Reto 04](Reto-04) Reto: Cálculo de métricas de evaluación,
+	- [Reto 04](Reto-04) Reto: Cálculo de métricas de evaluación.

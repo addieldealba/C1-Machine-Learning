@@ -1,27 +1,15 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Ejemplo 03
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Llevaremos en este ejemplo el K-fold cross validation al caso extremo donde hay 1 dato de prueba y todos los demás para entrenamiento. Esto se llama "Leave-One-Out cross validation (LOOCV)
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. SciKit Learn 
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+En este ejemplo dividimos los datos en K pruebas, donde K es la cantidad de muestras. Todos los datos se enfocan en ser aprendidos excepto uno, y el último dato se usa para entrenar. Este proceso se repite hasta que todos los datos han sido usados en pruebas. 

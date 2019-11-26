@@ -1,27 +1,15 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Ejemplo 02
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Aprender acerca de la separación en K-partes (K-fold) 
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. SciKit Learn
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+En este ejemplo veremos como se separan datos en K partes, de tal manera que todo el dataset se usa para entrenar, excepto una de las K partes. Este proceso se repite para llevar a cabo la validación cruzada.

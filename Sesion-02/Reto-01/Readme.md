@@ -1,27 +1,19 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Reto 01
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Separar los datos en entrenamiento, validación y prueba. Puedes utilizar tu dataset si así lo deseas. 
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Jupyter Notebook
+2. NumPy
+3. SciKit Learn 
+4. La función particionar del ejemplo 01
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Si tienes un dataset: cargalo en entradas (x) y salidas esperadas (y). Sino tienes dataset todavía, crea 1000 datos con makeblobs.
+Utiliza la función particionar para separar los datos en 60% entrenamiento, 10% validación y 30% prueba.
+Revisa los tamaños de los datasets con print(variableNp.shape)
+Repite el proceso para una proporcion 70% / 10% / 20% 
