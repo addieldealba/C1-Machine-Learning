@@ -1,27 +1,19 @@
- 
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks] 
-	
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
 
-- Lo que esperamos que el alumno aprenda 
+- Creación de funciones útiles para la librería MLUtilites.
 
 #### REQUISITOS 
 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. NumPy
+2. Jupyter Notebook
+3. MatPlotLib
+4. Scikit Learn
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
-<details>
-
-	<summary>Solucion</summary>
-	<p> Agrega aqui la solucion</p>
-	<p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
-</details> 
-
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) ![imagen](https://picsum.photos/200/300)
-
+Genera un archivo llamado MLUtilites.py que tenga las siguientes funciones:
+1. Separar datos: Una función que dado una muestra, unos valores esperados para cada muestra, y un número o valor a filtrar, te entregue solamente las muestras a las que les corresponde esos valores esperados. 
+2. Código de obtener moda (del ejemplo 02)
+3. Código para obtener la Accuracy de K-medias.
